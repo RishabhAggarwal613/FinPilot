@@ -1,6 +1,6 @@
-# 💰 WealthWise – Personal Finance Tracker
+# 💰 FinPilot – Personal Finance Tracker
 
-WealthWise is a **full-stack personal finance tracker** built with **React.js** (frontend) and **Spring Boot** (backend).  
+FinPilot is a **full-stack personal finance tracker** built with **React.js** (frontend) and **Spring Boot** (backend).  
 It empowers users to **track income, categorize earnings with emoji icons, filter by category**, and manage records with **secure CRUD operations**.  
 Designed as a **modern fintech project**, WealthWise ensures **data accuracy, real-time feedback, and a seamless user experience**.
 
@@ -42,7 +42,7 @@ Designed as a **modern fintech project**, WealthWise ensures **data accuracy, re
 ## 📂 Project Structure
 
 ```bash
-WealthWise/
+finpilot/
 │── backend/           # Spring Boot APIs, Security, MongoDB models
 │── frontend/          # React.js app with components, pages, services
 │── docker-compose.yml # Containerization setup
